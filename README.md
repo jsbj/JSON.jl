@@ -1,7 +1,7 @@
 #JSON parsing and printing for Julia. 
 [![Build Status](https://travis-ci.org/JuliaLang/JSON.jl.png)](https://travis-ci.org/JuliaLang/JSON.jl)
 
-##Installation
+##Installationing
 
 ```julia
 Pkg.add("JSON")
